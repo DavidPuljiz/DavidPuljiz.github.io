@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-            I am a Robotics Engineer with over 10 years of experience in developing innovative Human-Robot Interaction methods through the use of Mixed Reality, Head-Mounted Displays, and Machine Vision technologies. My expertise lies at the intersection of robotics and immersive technologies, where I create intuitive interfaces that enhance collaboration between humans and cyberphysical systems. Beyond my technical work, I am passionate about world-building and art design, bringing a creative perspective to technological challenges. I am currently focused on improving and developing interaction paradigms based on wearable devices that can further bridge the gap between humans and machines, making robotic systems more accessible and intuitive for non-trained users.
+           My research interests focus on wearable technologies, like head-mounted displays (HMDs). I use them as a 'babel fish', a universal translator between humans and cyberphysical systems. HMDs could be combined with machine vision and perhaps better sensors to, for example, track moving objects for safety, adapt or even remove weather conditions like fog, or even look behind obstacles. They could also be used to enable embodied, context-aware AI that could help the human based on the situation instead of deliberate textual input. I think we are barely scratching the surface with what wearable technology could enable us to do. Beyond my technical work, I am passionate about history, mythology, world-building and art design, bringing a creative perspective to technological challenges.
     design:
       columns: '1'
   - block: collection
