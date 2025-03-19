@@ -15,7 +15,6 @@ publication: '*2020 IEEE/RSJ International Conference on Intelligent Robots and 
   (IROS)*'
 doi: 10.1109/IROS45743.2020.9340879
 
-
 featured: true
 tags:
 - Augmented Reality
@@ -28,3 +27,5 @@ tags:
 - Depth Sensor
 
 ---
+{{< youtube rzHsXPJEgu8 >}}
+
