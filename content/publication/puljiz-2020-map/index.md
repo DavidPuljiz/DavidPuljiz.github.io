@@ -14,6 +14,9 @@ publication_types:
 publication: '*2020 IEEE/RSJ International Conference on Intelligent Robots and Systems
   (IROS)*'
 doi: 10.1109/IROS45743.2020.9340879
+
+{{< youtube rzHsXPJEgu8 >}}
+
 featured: true
 tags:
 - Augmented Reality
